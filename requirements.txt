@@ -1,7 +1,7 @@
-streamlit==1.25.0
-pandas==2.1.1
-pdfplumber==0.7.7
-spacy==3.6.0
-en-core-web-sm==3.6.0
-python-magic-bin==0.4.27
-sentence-transformers==2.2.2
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+nltk==3.8.1
+spacy==3.7.2
+scikit-learn==1.5.1
+pdfplumber==0.11.0
