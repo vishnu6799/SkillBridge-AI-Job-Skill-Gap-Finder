@@ -26,21 +26,6 @@ It then creates a **prioritized 30-day microlearning plan** with curated free re
 
 ---
 
-## 📦 Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/skillbridge.git
-cd skillbridge
-
-2. Install dependencies
-pip install -r requirements.txt
-
-3. Run the application
-streamlit run app.py
-
----
-
 📖 Usage
 Upload your resume (PDF or TXT) or use one of the provided demo resumes.
 
@@ -59,3 +44,18 @@ and landed an internship at a robotics startup in 3 months.
 
 💡 Inspiration
 Finding the exact skills to learn next can be confusing. SkillBridge was built to give learners a clear, actionable roadmap for their career goals.
+
+## 📦 Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/skillbridge.git
+cd skillbridge
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Run the application
+streamlit run app.py
+
+---
