@@ -39,6 +39,8 @@ pip install -r requirements.txt
 3. Run the application
 streamlit run app.py
 
+---
+
 📖 Usage
 Upload your resume (PDF or TXT) or use one of the provided demo resumes.
 
