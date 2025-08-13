@@ -1,4 +1,5 @@
 # SkillBridge-AI-Job-Skill-Gap-Finder
+https://skillbridge-ai-job-skill-gap-finder-mxrm9izrjutyneoe7f6tkp.streamlit.app/
 AI-powered tool that analyzes resumes, finds skill gaps for a target role, and generates a personalized 30-day microlearning plan with free resources.
 
 
